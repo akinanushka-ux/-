@@ -1,0 +1,1 @@
+ исключает __pycache__, *.pyc, .vscode, history.json (по желанию)
